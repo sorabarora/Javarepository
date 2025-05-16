@@ -29,6 +29,7 @@ public class Assignment_1 {
 	{
 		int f=a/b;
 		System.out.println("The result of the equation is "+f);
+		System.out.println("Methods Assignments");
 	}
 	
 	
